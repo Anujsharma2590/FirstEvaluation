@@ -1,0 +1,65 @@
+#parent-id > h4{
+    text-align: center;
+    color:red;
+    margin: 0;
+    padding: 0;
+}
+
+#parent-id > h1{
+color: black;
+text-align: center;
+
+}
+
+#parent-id > h5{
+    text-align: center;
+    color:red;
+    margin-top: 50px;
+}
+
+#parent-id > h2{
+color: black;
+text-align: center;
+
+}
+#card{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.card-child > img{
+height: 300px;
+width: 410px;
+}
+.card-child > p{
+line-height: 20px;
+}
+#form-id{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+#btton{
+    
+    height: 40px;
+    width: 110px;
+    background-color: #ff3300;
+    border: 0;
+    color: white;
+    
+}
+#para-id{
+    margin: 0 300px 10px 250px;
+    color: #88868c;
+}
+.first{
+display: flex;
+justify-content: space-between;
+padding-right: 50px;
+}
+.first > div >  p{
+    color: #88868c;
+}
+#first-parent{
+    margin-left: 30px;
+}
